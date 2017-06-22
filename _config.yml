@@ -20,7 +20,7 @@ keep_files:
 - ".git"
 - ".gitignore"
 subtitle: A free HTML5 agency template
-url: http://luminousrubyist.github.io
+url: 
 baseurl: "/airspace-jekyll"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
