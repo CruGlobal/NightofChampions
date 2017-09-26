@@ -231,7 +231,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/courtWoods.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -261,8 +261,9 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #8d8f92;
   margin-bottom: 20px;
 }
+/* changed the background color to match index style and class="indexColor" */
 #feature .btn-view-works {
-  background: #655E7A;
+  background: #B9770E;
   color: #fff;
   padding: 10px 20px;
 }
