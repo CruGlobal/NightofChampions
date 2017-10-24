@@ -45,11 +45,19 @@
 
 .reservationBox:hover {
   border: 5px solid white;
-  border-radius: 15px;
+  border-radius: 10px;
   background-color: #D68910;
 
 }
 
 .reservationBox h3:hover {
   color: white;
+}
+
+.socialBackground {
+  background-color:;
+}
+
+.socialIcons {
+  text-align:center;
 }
