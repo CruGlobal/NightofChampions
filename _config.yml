@@ -1,5 +1,5 @@
 ---
-title: Airspace
+title: AIA Night of Champions
 timezone: UTC
 collections:
   posts:
@@ -19,7 +19,7 @@ keep_files:
 - CNAME
 - ".git"
 - ".gitignore"
-subtitle: A free HTML5 agency template
+subtitle: Celebrating the Induction to the Hall of Faith
 url: 
 baseurl: 
 cover: "/assets/cover.png"
