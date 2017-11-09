@@ -5,6 +5,9 @@ collections:
   inductees:
     title: Inductees
     output: true
+  media:
+    title: Media
+    output: true
   posts:
     title: Posts
     output: true
