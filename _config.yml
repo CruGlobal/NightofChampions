@@ -2,6 +2,9 @@
 title: AIA Night of Champions
 timezone: UTC
 collections:
+  inductees:
+    title: Inductees
+    output: true
   posts:
     title: Posts
     output: true
