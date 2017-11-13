@@ -14,7 +14,7 @@ position: 1
 
 <div style="text-align: center;">
 <h2><b>
-<font color="Grey">Saturday, May 13, 2018</font> </b>
+<font color="Gray">Saturday, May 13, 2018</font> </b>
 </h2>
 <br>
 
