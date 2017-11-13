@@ -19,21 +19,21 @@ position: 1
 
 <div style="text-align: center;">
 <p><b><font size="5">5:30pm - 6:30pm:</font></b>
-<font size="5">VIP Reception (VIP ticket required)</font></p>
+<font size="4">VIP Reception (VIP ticket required)</font></p>
 <br>
-<p><b><font size="5">6:30pm:</font></b>
-<font size="5">Doors Open and Silent Auction begins.</font></p>
+<p><b><font size="4">6:30pm:</font></b>
+<font size="4">Doors Open and Silent Auction begins.</font></p>
 <br>
 <p><b>
-<font size="5">7:00pm - 9:00pm:</font></b>
-<font size="5">Banquet begins,featuring: Hall of Faith Induction Ceremony.</font></p>
+<font size="4">7:00pm - 9:00pm:</font></b>
+<font size="4">Banquet begins,featuring: Hall of Faith Induction Ceremony.</font></p>
 </div>
 <br>
 <div style="text-align: center;">
-<p><b><font size="5">The Evening will include:</font></b><br>
-<font size="5">VIP Reception, Silent Auction, and Video Highlights.</font>
+<p><b><font size="4">The Evening will include:</font></b><br>
+<font size="4">VIP Reception, Silent Auction, and Video Highlights.</font>
 <br> <br>
-<font size="5">Personal Interviews with Sports Celebrities.</font>
+<font size="4">Personal Interviews with Sports Celebrities.</font>
 <br><br>
 <font size="4">Induction of one male and one female into the Athletes in Action Hall of Faith.</font></p>
 <br><br>
