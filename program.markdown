@@ -7,14 +7,14 @@ position: 1
 <div style="text-align: center;">
 
 <h1><b>
-<font color="Smoke">2018 Program</font>
+<font color="GoldenRod">2018 Program</font>
 </b>
 </h1>
 </div>
 
 <div style="text-align: center;">
 <h2><b>
-<font color="Gray">Saturday, May 13, 2018</font> </b>
+<font color="DimGray">Saturday, May 13, 2018</font> </b>
 </h2>
 <br>
 
@@ -32,7 +32,7 @@ VIP Reception, Silent Auction, and Video Highlights.
 <br>Personal Interviews with Sports Celebrities.
 <br>Induction of one male and one female into the Athletes in Action Hall of Faith.</p>
 <h3><b>
-<font color="Gray"> Schindler Banquet Center Xenia, OH</font></b>
+<font color="DimGray"> Schindler Banquet Center Xenia, OH</font></b>
 </h3>
 <b>Presented by:</b>
 <img src="http://goaia.org/Media/Default/Events/NOC/sponsors/rl_carriers.png" height="159" width="198">
