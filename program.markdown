@@ -10,8 +10,8 @@ position: 1
 
 <h2>Saturday, May 13, 2018</h2>
 
-**5:30pm - 6:30pm**
-VIP Reception (VIP ticket required)
+<p><span style="font-style: italics">5:30pm - 6:30pm: </span>
+VIP Reception (VIP ticket required)</p>
 
 **6:30pm:**\
 Doors Open\
