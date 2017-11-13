@@ -6,7 +6,6 @@ position: 1
 
 <html>
 <div style="text-align: center;">
-
 <h1><b>
 <font size="30" color="GoldenRod">2018 Program</font>
 </b>
