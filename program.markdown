@@ -9,7 +9,7 @@ position: 1
 <h1>2018 Program</h1>
 
 <h2>Saturday, May 13, 2018</h2>
-<br> </br>
+<br>
 <p><b>5:30pm - 6:30pm:</b>
 VIP Reception (VIP ticket required)</p>
 
