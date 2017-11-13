@@ -6,7 +6,7 @@ position: 1
 
 <div style="text-align: center;">
 
-<h1> font style2018 Program</h1>
+<h1>2018 Program</h1>
 
 <h2>Saturday, May 13, 2018</h2>
 
