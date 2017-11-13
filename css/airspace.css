@@ -6,15 +6,16 @@
  *
  */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,600);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,100,300,500,700);
 @import url(http://fonts.googleapis.com/css?family=Volkhov:400italic);
+@import url(https://fonts.googleapis.com/css?family=Amita);
 /* var text-decoration */
 /*--
 	Common Css
 --*/
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 h1,
@@ -23,7 +24,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 h2 {
   font-size: 30px;
@@ -97,7 +98,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/legends-breakfast-header.jpg") no-repeat;
+  background: url("../img/NOCHome.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -113,15 +114,15 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  background: linear-gradient(to left, #5c5e83, #322e40);
   opacity: 0.8;
 }
 #slider .block {
   color: #E3E3E4;
 }
 #slider .block h1 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 100;
+  font-family: 'Amita', cursive, sans-serif;
+  font-weight: 500;
   font-size: 45px;
   line-height: 60px;
   letter-spacing: 10px;
@@ -130,8 +131,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block p {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
   letter-spacing: 3px;
 }
 /*--
@@ -385,6 +386,7 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 #global-header .block h1 {
+  font-family: 'Amita', cursive, sans-serif;
   font-weight: 100;
   font-size: 45px;
   letter-spacing: 6px;
@@ -632,7 +634,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-left: 90px;
 }
 #slider-contact .block h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 100;
   font-size: 45px;
   line-height: 60px;
@@ -642,7 +644,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider-contact .block p {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 300;
   letter-spacing: 1px;
   word-spacing: 3px;
@@ -682,7 +684,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: #47424C;
   border: none;
   color: #fff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 18px;
 }
 /*--
@@ -727,7 +729,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
 }
 #contact-box .block h2 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 300;
   color: #000;
   font-size: 28px;
