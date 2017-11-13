@@ -13,7 +13,7 @@ position: 1
 </div>
 <div style="text-align: center;">
 <h2><b>
-<font size="5" color="Crimson">Saturday, May 13, 2018</font> </b>
+<font size="7" color="Crimson">Saturday, May 13, 2018</font> </b>
 </h2>
 <br>
 
