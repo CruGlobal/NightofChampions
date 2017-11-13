@@ -13,11 +13,11 @@ position: 1
 <p><span style="font-style: italics">5:30pm - 6:30pm: </span>
 VIP Reception (VIP ticket required)</p>
 
-<p>**6:30pm:**
+<p><b>6:30pm:</b>
 Doors Open
 Silent Auction begin</p>
 
-<p>**7:00pm-9:00pm:**
+<p>7:00pm-9:00pm:
 Banquet begins, featuring:
 Hall of Faith Induction Ceremony</p>
 
