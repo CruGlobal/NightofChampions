@@ -30,5 +30,3 @@ Induction of one male and one female into the Athletes in Action Hall of Faith.
 ## **Schindler Banquet Center Xenia, OH**
 
 Presented by:
-
-![rl_carriers.png](/uploads/rl_carriers.png)
