@@ -18,13 +18,14 @@ position: 1
 <br>
 
 <div style="text-align: center;">
+<font size "12">
 <p><b>5:30pm - 6:30pm:</b>
 VIP Reception (VIP ticket required)</p>
 <p><b>6:30pm:</b>
 Doors Open and Silent Auction begins</p>
 <p><b>7:00pm - 9:00pm:</b>
 Banquet begins, featuring:
-Hall of Faith Induction Ceremony</p>
+Hall of Faith Induction Ceremony</p></font>
 </div>
 <br>
 <div style="text-align: center;">
