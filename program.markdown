@@ -35,6 +35,7 @@ VIP Reception, Silent Auction, and Video Highlights.
 <font color="Navy"> Schindler Banquet Center Xenia, OH</font></b>
 </h3>
 <br>
+<br>
 <b>Presented by:</b>
 <img src="http://goaia.org/Media/Default/Events/NOC/sponsors/rl_carriers.png" height="159" width="198">
 </div>
