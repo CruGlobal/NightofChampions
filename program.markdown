@@ -20,8 +20,10 @@ position: 1
 <div style="text-align: center;">
 <p><b><font size="5">5:30pm - 6:30pm:</font></b>
 <font size="5">VIP Reception (VIP ticket required)</font></p>
+<br>
 <p><b><font size="5">6:30pm:</font></b>
 <font size="5">Doors Open and Silent Auction begins</font></p>
+<br>
 <p><b><font size="5">7:00pm - 9:00pm:</font></b>
 <font size="5">Banquet begins, featuring:Hall of Faith Induction Ceremony</font></p>
 </div>
