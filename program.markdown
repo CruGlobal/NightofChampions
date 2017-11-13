@@ -18,7 +18,7 @@ position: 1
 <br>
 
 <div style="text-align: center;">
-<p><b><font size="12">5:30pm - 6:30pm:</font></b>
+<p><b>5:30pm - 6:30pm:</b>
 VIP Reception (VIP ticket required)</p>
 <p><b>6:30pm:</b>
 Doors Open and Silent Auction begins</p>
