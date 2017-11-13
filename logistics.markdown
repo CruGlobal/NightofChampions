@@ -5,3 +5,9 @@ position: 5
 ---
 
 <html>
+<div style="text-align: center;">
+<h1><b>
+<font size="30" color="GoldenRod">Logistics</font>
+</b>
+</h1>
+</div>
