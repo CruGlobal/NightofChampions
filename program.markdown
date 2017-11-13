@@ -11,7 +11,7 @@ position: 1
 </b>
 </h1>
 </div>
-
+<br>
 <div style="text-align: center;">
 <h2><b>
 <font color="Crimson">Saturday, May 13, 2018</font> </b>
@@ -34,6 +34,7 @@ VIP Reception, Silent Auction, and Video Highlights.
 <h3><b>
 <font color="Navy"> Schindler Banquet Center Xenia, OH</font></b>
 </h3>
+<br>
 <b>Presented by:</b>
 <img src="http://goaia.org/Media/Default/Events/NOC/sponsors/rl_carriers.png" height="159" width="198">
 </div>
