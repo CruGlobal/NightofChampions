@@ -44,7 +44,6 @@ VIP Reception, Silent Auction, and Video Highlights.
 </div>
 <br>
 <br>
-<br>
 <div style="text-align: center;">
 <h4><b>
 <font size="30" color="GoldenRod">2018 Inductees</font></b>
