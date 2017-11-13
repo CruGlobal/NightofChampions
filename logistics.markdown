@@ -11,5 +11,7 @@ position: 5
 </b>
 </h1>
 </div>
-</h2>"font size="5" color="DimGray">Guest</font><font size="5" color="GoldenRod"> Information</font>
-</h2>
+<div>
+<font size="5" color="DimGray">Guest</font>
+<font size="5" color="GoldenRod"> Information</font>
+</div>
