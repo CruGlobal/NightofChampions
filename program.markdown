@@ -7,7 +7,7 @@ position: 1
 <div style="text-align: center;">
 
 <h1><b>
-<font color="GoldenRod">2018 Program</font>
+<font size color="GoldenRod">2018 Program</font>
 </b>
 </h1>
 </div>
@@ -36,6 +36,6 @@ VIP Reception, Silent Auction, and Video Highlights.
 </h3>
 <br>
 <br>
-<b>Presented by:</b>
+<b>Presented By:</b>
 <img src="http://goaia.org/Media/Default/Events/NOC/sponsors/rl_carriers.png" height="159" width="198">
 </div>
