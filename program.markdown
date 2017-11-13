@@ -43,7 +43,7 @@ position: 1
 <font size ="5" color="Navy"> Schindler Banquet Center Xenia, OH</font></b>
 </h3>
 <br>
-<b>Presented By:</b>
+<b><font size="5">Presented By:</b>
 <img src="http://goaia.org/Media/Default/Events/NOC/sponsors/rl_carriers.png" height="159" width="198">
 </div>
 <br>
