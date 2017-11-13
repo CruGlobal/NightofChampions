@@ -31,7 +31,9 @@ Hall of Faith Induction Ceremony</p>
 VIP Reception, Silent Auction, and Video Highlights.
 <br>Personal Interviews with Sports Celebrities.
 <br>Induction of one male and one female into the Athletes in Action Hall of Faith.</p>
-<h2>Schindler Banquet Center Xenia, OH</h2>
+<h2>
+<font color="Gold" Schindler> Banquet Center Xenia, OH
+</h2>
 Presented by:
 <img src="http://goaia.org/Media/Default/Events/NOC/sponsors/rl_carriers.png" height="159" width="198">
 </div>
