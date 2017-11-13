@@ -24,7 +24,8 @@ position: 1
 <p><b><font size="5">6:30pm:</font></b>
 <font size="5">Doors Open and Silent Auction begins</font></p>
 <br>
-<p><b><font size="5">7:00pm - 9:00pm:</font></b>
+<p><b>
+<font size="5">7:00pm - 9:00pm:</font></b>
 <font size="5">Banquet begins, featuring:Hall of Faith Induction Ceremony</font></p>
 </div>
 <br>
