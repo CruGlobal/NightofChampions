@@ -6,7 +6,7 @@ position: 1
 
 # 2018 Program
 
-# Saturday, May 13, 2018
+## Saturday, May 13, 2018
 
 **5:30pm - 6:30pm:**
 VIP Reception (VIP ticket required)
@@ -19,10 +19,12 @@ Silent Auction begins
 Banquet begins, featuring:\
 Hall of Faith Induction Ceremony
 
-The Evening will include: 
+**The Evening will include: **
 
 VIP Reception, Silent Auction, and Video Highlights.
 
 Personal Interviews with Sports Celebrities.
 
 Induction of one male and one female into the Athletes in Action Hall of Faith.
+
+## **Schindler Banquet Center Xenia, OH**
