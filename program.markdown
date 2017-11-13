@@ -9,4 +9,4 @@ position: 1
 # Saturday, May 13, 2018
 
 **5:30pm - 6:30pm:**
-VIP Reception(VIP ticket required)
+VIP Reception (VIP ticket required)
