@@ -26,11 +26,15 @@ Doors Open and Silent Auction begins</p>
 <p><b>7:00pm - 9:00pm:</b>
 Banquet begins, featuring:
 Hall of Faith Induction Ceremony</p>
+</div>
 <br>
+<div style="text-align: center;">
 <p><b>The Evening will include:</b><br>
 VIP Reception, Silent Auction, and Video Highlights.
 <br>Personal Interviews with Sports Celebrities.
 <br>Induction of one male and one female into the Athletes in Action Hall of Faith.</p>
+</div>
+<div style="text-align: center;">
 <h3><b>
 <font size ="5" color="Navy"> Schindler Banquet Center Xenia, OH</font></b>
 </h3>
