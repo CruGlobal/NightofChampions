@@ -32,8 +32,11 @@ position: 1
 <div style="text-align: center;">
 <p><b><font size="5">The Evening will include:</font></b><br>
 <font size="5">VIP Reception, Silent Auction, and Video Highlights.</font>
-<br><font size="5">Personal Interviews with Sports Celebrities.</font>
-<br><font size="5">Induction of one male and one female into the Athletes in Action Hall of Faith.</font></p>
+
+<font size="5">Personal Interviews with Sports Celebrities.</font>
+
+<font size="5">Induction of one male and one female into the Athletes in Action Hall of Faith.</font></p>
+
 </div>
 <div style="text-align: center;">
 <h3><b>
