@@ -13,14 +13,14 @@ position: 1
 </div>
 <div style="text-align: center;">
 <h2><b>
-<font size="7" color="Crimson">Saturday, May 13, 2018</font> </b>
+<font size="6" color="Crimson">Saturday, May 13, 2018</font> </b>
 </h2>
 <br>
 
 <div style="text-align: center;">
 <p><b><font size="5">5:30pm - 6:30pm:</font></b>
 <font size="5">VIP Reception (VIP ticket required)</font></p>
-<p><b>6:30pm:</b>
+<p><b><font size="5">6:30pm:</font></b>
 Doors Open and Silent Auction begins</p>
 <p><b>7:00pm - 9:00pm:</b>
 Banquet begins, featuring:
