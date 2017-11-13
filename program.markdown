@@ -4,6 +4,7 @@ date: 2017-11-13 10:15:00 Z
 position: 1
 ---
 
+<div style="text-align: center;">
 # 2018 Program
 
 ## Saturday, May 13, 2018
@@ -30,3 +31,4 @@ Induction of one male and one female into the Athletes in Action Hall of Faith.
 ## **Schindler Banquet Center Xenia, OH**
 
 Presented by:
+</div>
