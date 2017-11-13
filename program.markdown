@@ -42,6 +42,7 @@ VIP Reception, Silent Auction, and Video Highlights.
 <b>Presented By:</b>
 <img src="http://goaia.org/Media/Default/Events/NOC/sponsors/rl_carriers.png" height="159" width="198">
 </div>
+<br>
 <div style="text-align: center;">
 <h4><b>
 <font size="30" color="GoldenRod">2018 Inductees</font></b>
