@@ -19,7 +19,7 @@ Doors Open and Silent Auction begins</p>
 <p><b>7:00pm - 9:00pm:</b>
 Banquet begins, featuring:
 Hall of Faith Induction Ceremony</p>
-
+<br>
 <p><b>The Evening will include:</b>
 VIP Reception, Silent Auction, and Video Highlights.
 Personal Interviews with Sports Celebrities.
