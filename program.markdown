@@ -18,7 +18,6 @@ position: 1
 <br>
 
 <div style="text-align: center;">
-<font size "12">
 <p><b>5:30pm - 6:30pm:</b>
 VIP Reception (VIP ticket required)</p>
 <p><b>6:30pm:</b>
