@@ -6,11 +6,11 @@ position: 1
 
 <div style="text-align: center;">
 
-<h1>2018 Program</h1>
+<h1> font style2018 Program</h1>
 
 <h2>Saturday, May 13, 2018</h2>
 
-<p><span style="font-style: italics">5:30pm - 6:30pm: </span>
+<p>"font-style: italics">5:30pm - 6:30pm: </span>
 VIP Reception (VIP ticket required)</p>
 
 <p><b>6:30pm:</b>
