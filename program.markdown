@@ -1,9 +1,9 @@
 ---
 title: Program
-date: 2017-11-13 14:50:00 Z
+date: 2017-11-13 10:15:00 Z
 position: 1
 ---
 
-#                                                         2018 Program
+# 2018 Program
 
-##                                                    **Saturday, May 13, 2018**               
+# **Saturday, May 13, 2018**
