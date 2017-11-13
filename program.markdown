@@ -26,7 +26,7 @@ position: 1
 <br>
 <p><b>
 <font size="5">7:00pm - 9:00pm:</font></b>
-<font size="5">Banquet begins, featuring:Hall of Faith Induction Ceremony</font></p>
+<font size="5">Banquet begins,featuring:Hall of Faith Induction Ceremony</font></p>
 </div>
 <br>
 <div style="text-align: center;">
