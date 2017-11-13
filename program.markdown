@@ -6,7 +6,7 @@ position: 1
 
 # 2018 Program
 
-# Saturday, May 13, 2018
+### Saturday, May 13, 2018
 
 **`5:30pm - 6:30pm:`**\
 `VIP Reception`\
