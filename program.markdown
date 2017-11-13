@@ -7,7 +7,7 @@ position: 1
 <div style="text-align: center;">
 
 <h1><b>
-<font color="Blue">2018 Program</font>
+<font color="Orange">2018 Program</font>
 </b>
 </h1>
 </div>
