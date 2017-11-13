@@ -14,9 +14,9 @@ position: 1
 VIP Reception (VIP ticket required)</p>
 
 <p><b>6:30pm:</b>
-Doors Open and Silent Auction begin</p>
+Doors Open and Silent Auction begins</p>
 
-<p>7:00pm-9:00pm:
+<p><b>7:00pm-9:00pm:</b>
 Banquet begins, featuring:
 Hall of Faith Induction Ceremony</p>
 
