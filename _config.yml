@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     byLine: ''
-    layout: 'page'
+    layout: page
 exclude:
 - "/vendor/"
 - Gemfile
