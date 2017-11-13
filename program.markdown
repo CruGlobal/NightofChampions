@@ -7,14 +7,14 @@ position: 1
 <div style="text-align: center;">
 
 <h1><b>
-<font size color="GoldenRod">2018 Program</font>
+<font size="20" color="GoldenRod">2018 Program</font>
 </b>
 </h1>
 </div>
 <br>
 <div style="text-align: center;">
 <h2><b>
-<font size="25" color="Crimson">Saturday, May 13, 2018</font> </b>
+<font size="10" color="Crimson">Saturday, May 13, 2018</font> </b>
 </h2>
 <br>
 
