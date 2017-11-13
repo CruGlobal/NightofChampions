@@ -37,7 +37,7 @@ position: 1
 <font size="4">Personal Interviews with Sports Celebrities.</font>
 <br><br>
 <font size="4">Induction of one male and one female into the Athletes in Action Hall of Faith.</font></p>
-<br><br>
+<br>
 </div>
 <div style="text-align: center;">
 <h3><b>
