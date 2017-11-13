@@ -29,7 +29,7 @@ Personal Interviews with Sports Celebrities.
 
 Induction of one male and one female into the Athletes in Action Hall of Faith.
 
-<h2>Schindler Banquet Center Xenia, OH**</h2>
+<h2>Schindler Banquet Center Xenia, OH</h2>
 
 Presented by:
 </div>
