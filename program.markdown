@@ -31,7 +31,7 @@ position: 1
 <br>
 <br>
 <div style="text-align: center;">
-<p><b><font size="4">The Evening will include:</font></b><br>
+<p><b><font size="5">The Evening will include:</font></b><br>
 <font size="4">VIP Reception, Silent Auction, and Video Highlights.</font>
 <br> <br>
 <font size="4">Personal Interviews with Sports Celebrities.</font>
