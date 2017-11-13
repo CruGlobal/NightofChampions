@@ -53,5 +53,3 @@ position: 2
 <font size="30" color="GoldenRod">2018 Inductees</font></b>
 </h4>
 </div>
-
-</html> 
