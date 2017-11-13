@@ -14,8 +14,7 @@ position: 1
 VIP Reception (VIP ticket required)</p>
 
 <p><b>6:30pm:</b>
-Doors Open
-Silent Auction begin</p>
+Doors Open and Silent Auction begin</p>
 
 <p>7:00pm-9:00pm:
 Banquet begins, featuring:
