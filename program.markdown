@@ -35,7 +35,7 @@ VIP Reception, Silent Auction, and Video Highlights.
 </div>
 <div style="text-align: center;">
 <h3><b>
-<font size ="5" color="Navy"> Schindler Banquet Center Xenia, OH</font></b>
+<font size ="8" color="Navy"> Schindler Banquet Center Xenia, OH</font></b>
 </h3>
 <br>
 <br>
