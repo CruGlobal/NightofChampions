@@ -14,7 +14,7 @@ position: 1
 <br>
 <div style="text-align: center;">
 <h2><b>
-<font size="10" color="Crimson">Saturday, May 13, 2018</font> </b>
+<font size="5" color="Crimson">Saturday, May 13, 2018</font> </b>
 </h2>
 <br>
 
@@ -32,7 +32,7 @@ VIP Reception, Silent Auction, and Video Highlights.
 <br>Personal Interviews with Sports Celebrities.
 <br>Induction of one male and one female into the Athletes in Action Hall of Faith.</p>
 <h3><b>
-<font size ="10" color="Navy"> Schindler Banquet Center Xenia, OH</font></b>
+<font size ="5" color="Navy"> Schindler Banquet Center Xenia, OH</font></b>
 </h3>
 <br>
 <br>
