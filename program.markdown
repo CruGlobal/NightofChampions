@@ -22,8 +22,8 @@ Hall of Faith Induction Ceremony</p>
 <br>
 <p><b>The Evening will include:</b>
 VIP Reception, Silent Auction, and Video Highlights.
-Personal Interviews with Sports Celebrities.
-Induction of one male and one female into the Athletes in Action Hall of Faith.</p>
+<br>Personal Interviews with Sports Celebrities.
+<br>Induction of one male and one female into the Athletes in Action Hall of Faith.</p>
 
 <h2>Schindler Banquet Center Xenia, OH</h2>
 
