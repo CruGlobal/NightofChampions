@@ -19,10 +19,10 @@ Silent Auction begins
 Banquet begins, featuring:\
 Hall of Faith Induction Ceremony
 
-\*\* The Evening will include: \*\*
+The Evening will include: 
 
-VIP Reception, Silent Auction, and Video Highlights
+VIP Reception, Silent Auction, and Video Highlights.
 
-Personal Interviews with Sports Celebrities
+Personal Interviews with Sports Celebrities.
 
-Induction of one male and one female into the Athletes in Action Hall of Faith
+Induction of one male and one female into the Athletes in Action Hall of Faith.
