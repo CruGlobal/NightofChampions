@@ -29,6 +29,7 @@ position: 1
 <font size="4">Banquet begins,featuring: Hall of Faith Induction Ceremony.</font></p>
 </div>
 <br>
+<br>
 <div style="text-align: center;">
 <p><b><font size="4">The Evening will include:</font></b><br>
 <font size="4">VIP Reception, Silent Auction, and Video Highlights.</font>
@@ -42,7 +43,6 @@ position: 1
 <h3><b>
 <font size ="5" color="Navy"> Schindler Banquet Center Xenia, OH</font></b>
 </h3>
-<br>
 <br>
 <b>Presented By:</b>
 <img src="http://goaia.org/Media/Default/Events/NOC/sponsors/rl_carriers.png" height="159" width="198">
