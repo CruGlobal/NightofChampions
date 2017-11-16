@@ -10,7 +10,7 @@ position: 6
 <b>
 <font size="5">Silent Auction Items</font>
 
-<div>
+<div style="text-align: center;">
 Catherine Whitehill signed jerseys
 Archie Griffin signed jerseys
 Reggie Miller Hall of Fame autographed chair
