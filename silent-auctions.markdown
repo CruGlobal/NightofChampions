@@ -9,3 +9,10 @@ position: 6
 <div style="text-align: center;">
 <b>
 <font size="5">Silent Auction Items</font>
+
+<div>
+Catherine Whitehill signed jerseys
+Archie Griffin signed jerseys
+Reggie Miller Hall of Fame autographed chair
+Anthony Munoz framed autographed prints
+</div>
