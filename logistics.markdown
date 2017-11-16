@@ -39,4 +39,4 @@ position: 5
 </b>
 </div>
 <div>
-<p><b>Address:</b>Schindler Banquet Center, AIA World Headquarters, 651 Taylor Drive, Xenia, OH 45385</p>
+<p><b>Address:</b> Schindler Banquet Center, AIA World Headquarters, 651 Taylor Drive, Xenia, OH 45385</p>
