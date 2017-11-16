@@ -23,7 +23,7 @@ position: 5
 <br>
 <li>Doors and <a href="https://cruglobal.github.io/NightofChampions/silent-auctions">Silent Auction</a> open at 6:30pm.</li>
 <br>
-<li>Dinner and Program begins at 7:00pm.</li>
+<li>Dinner and <a href="https://cruglobal.github.io/NightofChampions/program"> Program</a> begins at 7:00pm.</li>
 <br> 
 <li>Each guest must show his or her ticket at the door.</li>
 <br> 
