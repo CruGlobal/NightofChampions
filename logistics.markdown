@@ -27,4 +27,3 @@ VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).
 Doors and Silent Auction open at 6:30pm.
 Dinner and Program begins at 7:00pm. 
 Each guest must show his or her ticket at the door. The table assignment is noted on the ticket. Please note that all ticket sales are final.
-</div>
