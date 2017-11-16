@@ -21,7 +21,7 @@ position: 5
 <br>
 <li>VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).</li>
 <br>
-<li>Doors and Silent Auction open at 6:30pm.</li>
+<li>Doors and <a href="https://cruglobal.github.io/NightofChampions/silent-auctions">Silent Auction</a> open at 6:30pm.</li>
 <br>
 <li>Dinner and Program begins at 7:00pm.</li>
 <br> 
