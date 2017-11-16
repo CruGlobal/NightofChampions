@@ -15,13 +15,17 @@ position: 5
 </b>
 </div>
 <div>
+<style>
+a:link {
+color: GoldenRod;
+}
 <font size="3">
 <ul style="list-style-type:disc">
 <li>Dress is business casual - jacket and tie not required.</li>
 <br>
 <li>VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).</li>
 <br>
-<li>Doors and <font color="GoldenRod"><a href="https://cruglobal.github.io/NightofChampions/silent-auctions">Silent Auction</a></font> open at 6:30pm.</li>
+<li>Doors and <a href="https://cruglobal.github.io/NightofChampions/silent-auctions">Silent Auction</a> open at 6:30pm.</li>
 <br>
 <li>Dinner and Program begins at 7:00pm.</li>
 <br> 
