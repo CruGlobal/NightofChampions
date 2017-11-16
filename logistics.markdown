@@ -20,7 +20,7 @@ position: 5
 </div>
 <br>
 <div>
-<font size="4">
+<font size="3">
 <ul style="list-style-type:disc">
 <li>Dress is business casual - jacket and tie not required.</li>
 <br>
