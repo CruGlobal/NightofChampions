@@ -19,7 +19,7 @@ position: 5
 </b>
 </div>
 <div>
-<ul type="Directions">
+<ul type="circle">
 <li>Dress is business casual - jacket and tie not required.</li>
 <li>VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).</li>
 <li>Doors and Silent Auction open at 6:30pm.</li>
