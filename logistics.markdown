@@ -18,6 +18,7 @@ position: 5
 <font size="5" color="GoldenRod"> Information</font>
 </b>
 </div>
+<br>
 <div>
 <font size="4">
 <ul style="list-style-type:disc">
