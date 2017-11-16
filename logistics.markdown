@@ -20,7 +20,7 @@ position: 5
 </div>
 <div>
 <font size="3">
-<ul style="list-style-type:disc" display: in-line block;>
+<ul style="list-style-type:disc">
 <li>Dress is business casual - jacket and tie not required.</li>
 <br>
 <li>VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).</li>
