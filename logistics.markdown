@@ -28,6 +28,7 @@ position: 5
 <li>Dinner and Program begins at 7:00pm.</li> 
 <li>Each guest must show his or her ticket at the door.</li> 
 <li>The table assignment is noted on the ticket. Please note that all ticket sales are final.</li>
+<br>
 <div><b>
 <font size="5" color="DimGray">Driving</font>
 <font size="5" color="GoldenRod">Directions</font>
