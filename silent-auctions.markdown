@@ -31,7 +31,7 @@ Anthony Munoz framed autographed prints
 Sailing Experience on America's Cup Yacht in San Diego (includes airfare)
 <br>
 Churchill Downs Private Jockey Club Suite
-<br
+<br>
 Broadway show and dinner in Chicago
 <br>
 Jesse Katz Wine Tasting Dinner in Hyatt Vineyard Creek (includes airfare)
