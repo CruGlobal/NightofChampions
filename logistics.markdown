@@ -40,3 +40,4 @@ position: 5
 </div>
 <div>
 <p><b>Address:</b> Schindler Banquet Center, AIA World Headquarters, 651 Taylor Drive, Xenia, OH 45385</p>
+<p><b>From Dayton:</b> Take U.S. 35 east to the U.S. 35 Bypass at Xenia.  Exit at U.S. 68/Home Ave.  Go left (north) on U.S. 68 to the Legacy Center (1/2 mile on left).  Turn left into the property and follow parking signs for Night of Champions.</p>
