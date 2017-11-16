@@ -20,9 +20,7 @@ position: 5
 </div>
 <div>
 <font size="4">
-<ul type="disc">
-<li>Dress is business casual - jacket and tie not required.</li>
-</ul>
+Dress is business casual - jacket and tie not required.
 VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).
 Doors and Silent Auction open at 6:30pm.
 Dinner and Program begins at 7:00pm. 
