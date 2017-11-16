@@ -15,9 +15,12 @@ position: 6
 <br>
 Catherine Whitehill signed jerseys
 <br>
+<br>
 Archie Griffin signed jerseys
 <br>
+<br>
 Reggie Miller Hall of Fame autographed chair
+<br>
 <br>
 Anthony Munoz framed autographed prints
 <br>
