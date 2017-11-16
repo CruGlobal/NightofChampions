@@ -19,6 +19,7 @@ position: 5
 </b>
 </div>
 <div>
+<tabindex="0">
 <font size="3">
 <ul style="list-style-type:disc">
 <li>Dress is business casual - jacket and tie not required.</li>
