@@ -6,5 +6,5 @@ position: 6
 
 <html>
 <div style="text-align: center;">
-<b> Silent Auction Items</b>
+<font size="5"><b> Silent Auction Items</b>
 </div>
