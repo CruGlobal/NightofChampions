@@ -5,5 +5,5 @@ position: 4
 ---
 
 <div class ="w3 containter">
-<p>Place your order by calling 1-800-416-9473 or email becky.arnett@athletesinaction.org </p>
+<p>Place your order by calling 1-800-416-9473 or email <a href="mailto:becky.arnett@athletesinaction.org">becky.arnett@athletesinaction.org</a> becky.arnett@athletesinaction.org </p>
 </div>
