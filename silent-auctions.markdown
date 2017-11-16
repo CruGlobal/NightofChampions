@@ -26,6 +26,7 @@ Anthony Munoz framed autographed prints
 <b>
 <font size="5">Buy Now Vacation Packages</font>
 </b>
+<br>
 <div style="text-align: center;">
 <font size="3">
 Sailing Experience on America's Cup Yacht in San Diego (includes airfare)
