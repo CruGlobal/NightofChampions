@@ -18,9 +18,9 @@ position: 5
 <font size="5" color="GoldenRod"> Information</font>
 </b>
 </div>
-<div{text-align: left;}>
+<div>
 <font size="3">
-<ul style="list-style-type:disc">
+<ul style="list-style-type:disc" display: in-line block;>
 <li>Dress is business casual - jacket and tie not required.</li>
 <br>
 <li>VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).</li>
