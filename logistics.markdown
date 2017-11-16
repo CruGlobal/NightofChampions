@@ -22,7 +22,8 @@ position: 5
 <font size="4">
 <ul style="list-style-type:disc">
 <li>Dress is business casual - jacket and tie not required.</li>
-VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).
-Doors and Silent Auction open at 6:30pm.
-Dinner and Program begins at 7:00pm. 
-Each guest must show his or her ticket at the door. The table assignment is noted on the ticket. Please note that all ticket sales are final.
+<li>VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).</li>
+<li>Doors and Silent Auction open at 6:30pm.</li>
+</li>Dinner and Program begins at 7:00pm. 
+<li>Each guest must show his or her ticket at the door.</li> 
+<li>The table assignment is noted on the ticket. Please note that all ticket sales are final.</li>
