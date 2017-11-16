@@ -11,6 +11,7 @@ position: 6
 <font size="5">Silent Auction Items</font>
 </b>
 <div style="text-align: center;">
+<font size="4">
 Catherine Whitehill signed jerseys
 <br>
 Archie Griffin signed jerseys
