@@ -23,11 +23,15 @@ position: 5
 <font size="3">
 <ul style="list-style-type:disc">
 <li>Dress is business casual - jacket and tie not required.</li>
-
+<br>
 <li>VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).</li>
+<br>
 <li>Doors and Silent Auction open at 6:30pm.</li>
-<li>Dinner and Program begins at 7:00pm.</li> 
-<li>Each guest must show his or her ticket at the door.</li> 
+<br>
+<li>Dinner and Program begins at 7:00pm.</li>
+<br> 
+<li>Each guest must show his or her ticket at the door.</li>
+<br> 
 <li>The table assignment is noted on the ticket. Please note that all ticket sales are final.</li>
 <br>
 <div><b>
