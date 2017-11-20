@@ -1,6 +1,10 @@
 ---
 title: Archie Griffin
 date: 2017-11-20 15:10:00 Z
+categories:
+- Inductees
+tags:
+- Archie Griffin
 ---
 
 <img src="https://goaia.org/Media/Default/Events/NOC/archie-griffin-b.jpg" height="265" width="389"> 
