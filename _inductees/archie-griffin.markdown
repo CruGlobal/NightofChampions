@@ -3,6 +3,7 @@ title: Archie Griffin
 date: 2017-11-20 15:10:00 Z
 ---
 
+<img src="https://goaia.org/Media/Default/Events/NOC/archie-griffin-b.jpg" height="265" width="389"> 
 <p>Archie Griffin is the only two-time Heisman Trophy winner. A three-time All-American, he is included in the NCAA’s 100 Most Influential Student-Athletes and is a member of the National Football Foundation & College Hall of Fame board of directors. In 2014 Griffin was honored as All-Century Player by the Tournament of Roses Association, in celebration of the 100th anniversary Rose Bowl game. Griffin played in four consecutive Rose Bowl games under legendary coach Woody Hayes.</p>
 
 <p>Griffin earned his degree from The Ohio State University in 1976. He was a first-round draft choice of the Cincinnati Bengals, where he served as co-captain and played for seven years. He returned to Ohio State in 1984 and rose to become associate director of athletics.</p>
