@@ -24,12 +24,16 @@ tags:
 <b>
 Stats
 </b>
-
-The only two-time Heisman Trophy winner
-Served as co-captain and played for seven years with the Cincinnati Bengals
-One of NCAA’s 100 Most Influential Student-Athletes
-Served 11 years as the president/chief executive officer of The Ohio State University Alumni Association
-The Archie and Bonita Griffin Foundation Fund helps develop programs for central Ohio youth
+<br>
+The only two-time Heisman Trophy winner.
+<br>
+Served as co-captain and played for seven years with the Cincinnati Bengals.
+<br>
+One of NCAA’s 100 Most Influential Student-Athletes.
+<br>
+Served 11 years as the president/chief executive officer of The Ohio State University Alumni Association.
+<br>
+The Archie and Bonita Griffin Foundation Fund helps develop programs for central Ohio youth.
 </div>
 
 
