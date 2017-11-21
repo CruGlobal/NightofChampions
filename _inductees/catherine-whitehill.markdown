@@ -4,6 +4,7 @@ date: 2017-11-20 15:27:00 Z
 ---
 
 <div style="text-align: center;">
+<font size="4">
 <img src="https://goaia.org/Media/Default/Events/NOC/Catherine%20Whitehall.jpg" Height="265" Width="389">
 <p>Cat Reddick Whitehill was a defender on the U.S. Women’s National Soccer Team from 2000-2010, scoring 11 goals in 134 appearances. She competed on the gold medal-winning team in the 2004 Greece Olympics and was a member of the third-place U.S. squads at the 2003 and 2007 FIFA Women’s World Cup games.</p>
 
