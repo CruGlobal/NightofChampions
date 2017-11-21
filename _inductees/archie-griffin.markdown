@@ -7,6 +7,7 @@ tags:
 - Archie Griffin
 ---
 
+<div style="text-align: center;">
 <img src="https://goaia.org/Media/Default/Events/NOC/archie-griffin-b.jpg" height="265" width="389"> 
 <p>Archie Griffin is the only two-time Heisman Trophy winner. A three-time All-American, he is included in the NCAA’s 100 Most Influential Student-Athletes and is a member of the National Football Foundation & College Hall of Fame board of directors. In 2014 Griffin was honored as All-Century Player by the Tournament of Roses Association, in celebration of the 100th anniversary Rose Bowl game. Griffin played in four consecutive Rose Bowl games under legendary coach Woody Hayes.</p>
 
@@ -21,15 +22,15 @@ tags:
 <p>Griffin created the Archie Griffin Scholarship Fund, which benefits Ohio State’s Olympic sports programs. The Archie and Bonita Griffin Foundation Fund helps develop sports, educational and travel programs for youth in central Ohio. Griffin and his wife, Bonita, have three children: Anthony, Andre, and Adam and reside in Westerville, Ohio.</p>
 
 <b>
-<p>Stats</p>
+Stats
 </b>
-<body>
+
 The only two-time Heisman Trophy winner
 Served as co-captain and played for seven years with the Cincinnati Bengals
 One of NCAA’s 100 Most Influential Student-Athletes
 Served 11 years as the president/chief executive officer of The Ohio State University Alumni Association
 The Archie and Bonita Griffin Foundation Fund helps develop programs for central Ohio youth
-</body>
+</div>
 
 
 
