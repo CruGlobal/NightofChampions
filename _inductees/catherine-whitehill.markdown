@@ -15,14 +15,19 @@ date: 2017-11-20 15:27:00 Z
 
 <p>During the 2015 Women’s World Cup, Whitehill worked for FOX Sports and called the final soccer game that had a record 25 million TV viewers in the U.S. Currently, Whitehill calls women's and men's college games on ESPN2, ESPNU, SEC networks and for the Longhorn network (since 2009). She did color commentary for ESPN at the 2011 FIFA Women’s World Cup in Germany. She has also volunteered with the SPCA, Athletes for Hope, and children's hospitals in Boston, Atlanta and DC. Whitehill married Robert in 2005.</p>
 
-<body>
+
 <b>
 Stats
 </b>
-Defender on U.S. Women's Soccer Team 2000 - 2010
-Played in WPS for Washington Freedom and Atlanta Beat and in NWSL for Boston Breakers
-Was player/coach for Boston Breakers 2013 - 2014 and assistant coach 2016
-Broadcaster for women's and men's college games on ESPN2, ESPNU, SEC
-Volunteer with Athletes for Hope, and children's hospitals in Boston, Atlanta, and DC
-</body>
+<br>
+Defender on U.S. Women's Soccer Team 2000 - 2010.
+<br>
+Played in WPS for Washington Freedom and Atlanta Beat and in NWSL for Boston Breakers.
+<br>
+Was player/coach for Boston Breakers 2013 - 2014 and assistant coach 2016.
+<br>
+Broadcaster for women's and men's college games on ESPN2, ESPNU, SEC.
+<br>
+Volunteer with Athletes for Hope, and children's hospitals in Boston, Atlanta, and DC.
+
 
