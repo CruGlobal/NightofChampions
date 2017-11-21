@@ -8,7 +8,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-<font size="3">
+<font size="5">
 <img src="https://goaia.org/Media/Default/Events/NOC/archie-griffin-b.jpg" height="265" width="389"> 
 <p>Archie Griffin is the only two-time Heisman Trophy winner. A three-time All-American, he is included in the NCAA’s 100 Most Influential Student-Athletes and is a member of the National Football Foundation & College Hall of Fame board of directors. In 2014 Griffin was honored as All-Century Player by the Tournament of Roses Association, in celebration of the 100th anniversary Rose Bowl game. Griffin played in four consecutive Rose Bowl games under legendary coach Woody Hayes.</p>
 
@@ -16,7 +16,7 @@ tags:
 
 <p>Archie Griffin is now The Ohio State University’s senior advisor for Advancement after serving for 11 years as the president/chief executive officer of the alumni association (OSUAA).</p>
 
-<p>Griffin has been inducted into the Ohio High School Athletic Association Circle of Champions, which recognizes former high school student athletes who have demonstrated outstanding character and accomplishments on and off the field. Legendary Ohio State football coach Woody Hayes famously said of Archie Griffin, “He's a better young man than he is a football player, and he's the best football player I've ever seen.”</p>
+<p>Griffin has been inducted into the Ohio High School Athletic Association Circle of Champions, which recognizes former high school student-athletes who have demonstrated outstanding character and accomplishments on and off the field. Legendary Ohio State football coach Woody Hayes famously said of Archie Griffin, “He's a better young man than he is a football player, and he's the best football player I've ever seen.”</p>
 
 <p>A sought-after speaker and humanitarian, Griffin serves on many boards and foundations.</p>
 
