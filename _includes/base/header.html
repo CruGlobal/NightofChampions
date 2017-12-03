@@ -1,38 +1,20 @@
 <!-- Header Start -->
-<header>
+<header class="header scrolled">
 <div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <!-- header Nav Start -->
-      <nav class="navbar navbar-default">
-        <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="index.html">
-              <img style="margin-top: -15%" src="{{ site.baseurl }}/img/NoC_FullColor_RGB.png" alt="Logo">
-            </a>
-          </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav navbar-right">
-                <li><a href="{{ site.baseurl }}/">Home</a></li>
-                <li><a href="{{ site.baseurl }}/inductees">Inductees</a></li>
-                <li><a href="{{ site.baseurl }}/program">Program</a></li>
-                <li><a href="{{ site.baseurl }}/sponsors">Sponsors</a></li>
-                <li><a href="{{ site.baseurl }}/reservations">Reservations</a></li>
-                <li><a href="{{ site.baseurl }}/logistics">Logisitics</a></li>
-                <li><a href="{{ site.baseurl }}/silent-auctions">Silent Auction</a></li>
-              </ul>
-            </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
-        </nav>
-      </div>
+    <div class="logo-block">
+      <a class="logo" href="/"><img src="{{ site.baseurl }}/img/NoC_FullColor_RGB.png" alt=""></a>
     </div>
+    <nav class="main-nav">
+      <ul class="anchor-navigation">
+          <li class="active"><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/inductees">Inductees</a></li>
+          <li><a href="{{ site.baseurl }}/program">Program</a></li>
+          <li><a href="{{ site.baseurl }}/sponsors">Sponsors</a></li>
+          <li><a href="{{ site.baseurl }}/reservations">Reservations</a></li>
+          <li><a href="{{ site.baseurl }}/logistics">Logisitics</a></li>
+          <li><a href="{{ site.baseurl }}/silent-auctions">Silent Auction</a></li>
+      </ul>				
+    </nav>
+    <button class="cmn-toggle-switch"><span></span></button>
   </div>
 </header><!-- header close -->

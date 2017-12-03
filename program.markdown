@@ -4,7 +4,6 @@ date: 2017-11-13 10:15:00 Z
 position: 2
 ---
 
-<html>
 <div style="text-align: center;">
 <h1><b>
 <font size="30" color="GoldenRod">2018 Program</font>
@@ -48,8 +47,3 @@ position: 2
 </div>
 <br>
 <br>
-<div style="text-align: center;">
-<h4><b>
-<font size="30" color="GoldenRod">2018 Inductees</font></b>
-</h4>
-</div>
