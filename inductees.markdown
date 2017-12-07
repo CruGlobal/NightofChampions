@@ -2,8 +2,8 @@
 title: Hall of Faith Inductees
 date: 2017-11-13 14:51:00 Z
 permalink: "/inductees/"
-description: 
 position: 1
+description: 
 ---
 
 {% for post in site.inductees %}
