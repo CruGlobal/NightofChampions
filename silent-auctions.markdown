@@ -2,9 +2,9 @@
 title: Silent Auction
 date: 2017-11-13 14:52:00 Z
 position: 6
+description: Aution will be available for bids 30 minutes before the start of the event.
 ---
 
-## Silent Auction
 
 ### Sports Memoriable Items
 * Catherine Whitehill signed jerseys

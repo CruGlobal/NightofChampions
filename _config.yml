@@ -21,6 +21,14 @@ defaults:
   values:
     byLine: ''
     layout: page
+    description: 
+- scope:
+    path: ''
+    type: inductees
+  values:
+    image:
+    layout: inductee
+    year: 
 exclude:
 - "/vendor/"
 - Gemfile

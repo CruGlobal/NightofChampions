@@ -1,0 +1,13 @@
+body {
+    line-height: 20px !important;
+}
+.footer, .footer li a  {
+    color: #ccc;
+}
+
+.block-header.style-2 h2.block-category {
+    font-size: 30px !important;
+}
+
+.page h3 { color: #666;  }
+.page h3 .secondHalf { color: #feca16; }

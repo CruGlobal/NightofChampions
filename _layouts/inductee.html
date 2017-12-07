@@ -7,13 +7,17 @@ layout: default
         <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
             <div class="block-header style-2">
             <h2 class="block-category">{{ page.title }}</h2>
-            <div class="block-text">{{ page.description }}</div>
+            <div class="block-text">{{ page.year }} Inductee</div>
             </div>
         </div>
     </div>
     <div class="row page">
         <div class="col-md-12">
+            <img class="col-md-3 col-sm-6 col-xs-8 pull-right" src="{{ page.img }}" />
             {{ content }}
+        </div>
+        <div class="col-md-12 text-center" style="margin-bottom: 15px;">
+                <a class="register-link c-btn b-50 yellow" href="/inductees/">Back to Inductees</a>
         </div>  
     </div>  
 </div>
