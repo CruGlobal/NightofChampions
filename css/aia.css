@@ -11,3 +11,7 @@ body {
 
 .page h3 { color: #666;  }
 .page h3 .secondHalf { color: #feca16; }
+
+@media (max-width: 991px) {
+    .logo { margin-top: 5px !important; }
+}
