@@ -11,12 +11,12 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
   sponsors:
     title: Sponsors
     output: false
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
@@ -36,7 +36,7 @@ defaults:
     path: ''
     type: sponsors
   values:
-    image:
+    image: 
     level: 
 exclude:
 - "/vendor/"
