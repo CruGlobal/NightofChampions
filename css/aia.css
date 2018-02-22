@@ -20,7 +20,7 @@ body {
     height: 100%;
     position: absolute;
     z-index: 1;
-    background: url(/uploads/gridtile_3x3.png);
+    background: url(/uploads/gridtile_3x3.png) rgba(0,0,0,0.5);
 
 }
 .main-slider .vertical-align {

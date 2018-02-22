@@ -3,3 +3,5 @@ s3_secret: <%= ENV['AWSSecretKey'] %>
 s3_bucket: build.aianightofchampions.com
 exclude_from_upload:
   - postbuild.sh
+cloudfront_distribution_id: E2OYAL6209O69J
+cloudfront_wildcard_invalidation: true
