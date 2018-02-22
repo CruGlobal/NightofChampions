@@ -1,7 +1,7 @@
 ---
 title: Catherine Whitehill
 date: 2017-11-20 15:27:00 Z
-img: /uploads/CatherineWhitehall.jpg
+img: "/uploads/CatherineWhitehall.jpg"
 year: 2017
 ---
 
