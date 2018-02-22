@@ -5,7 +5,7 @@ categories:
 - Inductees
 tags:
 - Archie Griffin
-img: https://goaia.org/Media/Default/Events/NOC/archie-griffin-b.jpg
+img: /uploads/archie-griffin-b.jpg
 year: 2017
 ---
 
