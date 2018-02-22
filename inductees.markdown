@@ -9,8 +9,8 @@ description:
 {% for post in site.inductees %}
 <div class="col-xs-12 col-sm-6">
 <div class="team-entry">
-<a class="team-img"><img class="img-responsive" src="{{ post.img }}" alt=""></a>
-<a class="team-title" href="{{ post.url }}">{{ post.title }}</a>
+<a class="team-img" href="{{ post.url | replace: '.html', '' }}"><img class="img-responsive" src="{{ post.img }}" alt=""></a>
+<a class="team-title" href="{{ post.url | replace: '.html', '' }}">{{ post.title }}</a>
 <a class="team-pos">{{ post.year }}</a>
 <div class="team-text">{{ post.content | strip_html | truncate: 200, '...' }}</div>
 </div>
