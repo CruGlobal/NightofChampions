@@ -365,7 +365,7 @@ $(function() {
 		$('#countdown').ClassyCountdown({
 			theme: "white",
 			now: $.now() / 1000,
-			end: Date.UTC(2018,4,12,18,0,0)/1000,
+			end: Date.UTC(2018,4,19,18,0,0)/1000,
 			color: "#0bbf47",
 			style: {
 			  element: '',
