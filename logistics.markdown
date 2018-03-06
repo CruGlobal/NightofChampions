@@ -7,13 +7,13 @@ position: 5
 <h3>Guest <span class="secondHalf">Information</span></h3>
 <div>
 <ul style="list-style-type:disc">
-<li>Dress is business casual - jacket and tie not required.</li>
+<li>VIP/Sponsor Photo Op &amp; Tour begins at 5:00pm (VIP ticket required)</li>
 <br>
-<li>VIP/Sponsor Reception begins at 5:30pm (separate VIP ticket required).</li>
+<li>Meet &amp; Greet Hall of Faith Inductees 5:30-6:15 in Schindler basement</li>
 <br>
-<li>Doors and <a href="/silent-auctions" style="color: GoldenRod">Silent Auction</a> open at 6:30pm.</li>
+<li>Schindler Banquet Center doors and <a href="/silent-auctions" style="color: GoldenRod">Silent Auction</a> open at 6:00pm.</li>
 <br>
-<li>Dinner and <a href="/program" style="color: GoldenRod">Program</a> begins at 7:00pm.</li>
+<li>Dinner and <a href="/program" style="color: GoldenRod">Program</a> begins at 6:30pm</li>
 <br> 
 <li>Each guest must show his or her ticket at the door.</li>
 <br> 
