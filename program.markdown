@@ -5,6 +5,7 @@ position: 2
 ---
 
 ### Saturday, May 19, 2018
+
 #### Schindler Banquet Center Xenia, OH
 
 *Details will be announced shortly*
