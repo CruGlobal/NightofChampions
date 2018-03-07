@@ -1,6 +1,7 @@
 s3_id: <%= ENV['AWSKeyID'] %>
 s3_secret: <%= ENV['AWSSecretKey'] %>
 s3_bucket: build.aianightofchampions.com
+cache_control: public, no-transform, max-age=1200, s-maxage=1200
 exclude_from_upload:
   - postbuild.sh
 cloudfront_distribution_id: E2OYAL6209O69J
