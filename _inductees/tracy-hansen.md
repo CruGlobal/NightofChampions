@@ -1,5 +1,5 @@
 ---
-title: Tracy Hansen
+title: Tracy Hanson
 date: 2018-02-22 15:10:00 Z
 categories:
 - Inductees
