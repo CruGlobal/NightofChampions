@@ -9,7 +9,7 @@ position: 5
 <ul style="list-style-type:disc">
 <li>VIP/Sponsor Photo Op &amp; Tour begins at 5:00pm (VIP ticket required)</li>
 <br>
-<li>View "We're Under Construction" display with light appetizers in Schindler Basement from 5:30-6:15.</li>
+<li>View "Building the Total Athlete" display with light appetizers in Schindler Basement from 5:30-6:15.</li>
 <br>
 <li>Schindler Banquet Center doors and <a href="/silent-auctions" style="color: GoldenRod">Silent Auction</a> open at 6:00pm.</li>
 <br>
