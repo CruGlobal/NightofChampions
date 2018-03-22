@@ -3,7 +3,7 @@ title: Media
 description: Press Releases
 date: 2017-11-13 14:53:00 Z
 position: 5
-permalink: /media
+permalink: /media/
 layout: media
 ---
 
