@@ -53,14 +53,14 @@
         </div>
       </div>			
     </div>
-    <div id="speakers" class="main-block style-2 bg-grey clearfix">
+    <div id="speakers" class="main-block style-2 bg-grey clearfix" style="background-color: #cc993a;">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
                     <div class="block-header style-2">
-                        <h4 class="block-category">Our Inductees</h4>
+                        <h4 class="block-category" style="color: #848484">Our Inductees</h4>
                         <h2 class="block-title">Class of 2018</h2>
-                        <div class="block-text">
+                        <div class="block-text" style="color: #000;">
                           Hall of Faith inductees are household names, but their outstanding accomplishments expand beyond their performance in competition. This ceremony recognizes individuals that live a life of faith, demonstrate exceptional character and an unwavering ability to exemplify integrity.
                         </div>
                     </div>
@@ -76,8 +76,8 @@
                     <div class="team-entry">
                       <a class="team-img" href="{{ post.url | replace: '.html', '' }}"><img class="img-responsive" src="{{ post.img }}" alt=""></a>
                       <a class="team-title" href="{{ post.url | replace: '.html', '' }}">{{ post.title }}</a>
-                      <a class="team-pos">{{ post.year }}</a>
-                      <div class="team-text">{{ post.content | strip_html | truncate: 200, '...' }}</div>
+                      <a class="team-pos black">{{ post.year }}</a>
+                      <div class="team-text black">{{ post.content | strip_html | truncate: 200, '...' }}</div>
                     </div>
                   </div>
                 {% endfor %}

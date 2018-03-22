@@ -5,7 +5,7 @@ permalink: "/inductees/"
 position: 1
 description: 
 ---
-{% assign sorted = site.inductees | sort: 'date' | reverse %}
+{% assign sorted = site.inductees | sort: 'year' | reverse %}
 {% for post in sorted %}
 <div class="col-xs-12 col-sm-6">
 <div class="team-entry">

@@ -3,6 +3,7 @@ body {
 }
 .footer, .footer li a  {
     color: #ccc;
+    background-color: #222;
 }
 
 .block-header.style-2 h2.block-category {
@@ -10,7 +11,7 @@ body {
 }
 
 .page h3 { color: #666;  }
-.page h3 .secondHalf { color: #feca16; }
+.page h3 .secondHalf { color: #cc993a; }
 
 @media (max-width: 991px) {
     .logo { margin-top: 5px !important; }
@@ -25,4 +26,8 @@ body {
 }
 .main-slider .vertical-align {
     z-index: 2 !important;
+}
+
+.black {
+    color: #000;
 }
