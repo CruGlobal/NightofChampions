@@ -12,7 +12,7 @@ position: 3
     <div class="no-padding col-xs-6 col-md-6" style="display: inline-block; float: none;">
         <div style="padding-bottom: 30px;">
             <img src="{{ post.image }}" alt="">
-            <p style="padding-top: 15px;">{{ post. quote }}</p>
+            <p style="padding-top: 15px;">{{ post.quote }}</p>
         </div>
     </div>
     {% endif %}
