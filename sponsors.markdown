@@ -31,3 +31,17 @@ position: 3
     {% endif %}
     {% endfor %}
 </div>
+
+<div class="row text-center">
+    <h3>All-Star Sponsors</h3>
+    {% assign sorted = site.sponsors | sort: 'title' %}
+    {% for post in sorted %}
+    {% if post.level == "All-Star" %}
+    <div class="no-padding col-xs-6 col-md-3" style="display: inline-block; float: none;">
+        <div style="padding-bottom: 30px;">
+            <img src="{{ post.image }}" alt="">
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
