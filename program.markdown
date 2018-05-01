@@ -5,7 +5,7 @@ position: 2
 ---
 
 <div class="row text-center">
-    <h3 class="script">13th Annual Night of Champions</h3>
+    <h2 class="script">13th Annual Night of Champions</h2>
     <p>Dinner</p>
     <p>On-Floor Interviews</p>
     <p class="script">Special Guests from Xenia High School<br />Football and Basketball teams</p>
