@@ -9,7 +9,7 @@ position: 3
     <h3>Presenting Sponsors</h3>
     {% for post in site.sponsors %}
     {% if post.level == "Presenting" %}
-    <div class="no-padding col-xs-6 col-md-6" style="display: inline-block; float: none;">
+    <div class="col-xs-12 col-md-6" style="display: inline-block;">
         <div style="padding-bottom: 30px;">
             <img src="{{ post.image }}" alt="">
             <p style="padding-top: 15px;">{{ post.quote }}</p>
@@ -23,7 +23,7 @@ position: 3
     {% assign sorted = site.sponsors | sort: 'title' %}
     {% for post in sorted %}
     {% if post.level == "Team" %}
-    <div class="no-padding col-xs-6 col-md-3" style="display: inline-block; float: none;">
+    <div class="col-xs-6 col-md-3" style="display: inline-block; float: none;">
         <div style="padding-bottom: 30px;">
             <img src="{{ post.image }}" alt="">
         </div>
@@ -37,7 +37,7 @@ position: 3
     {% assign sorted = site.sponsors | sort: 'title' %}
     {% for post in sorted %}
     {% if post.level == "All-Star" %}
-    <div class="no-padding col-xs-6 col-md-3" style="display: inline-block; float: none;">
+    <div class="col-xs-6 col-md-3" style="display: inline-block; float: none;">
         <div style="padding-bottom: 30px;">
             <img src="{{ post.image }}" alt="">
         </div>
