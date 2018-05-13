@@ -18,6 +18,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  silent-auction:
+    title: Silent Auction
+    output: false
 defaults:
 - scope:
     path: ''
@@ -39,6 +42,11 @@ defaults:
   values:
     image: 
     level: 
+- scope:
+    path: ''
+    type: silent-auction
+  values:
+    type:
 exclude:
 - "/vendor/"
 - Gemfile
