@@ -5,7 +5,7 @@ position: 6
 description: Auction will be held prior to the start of the event.
 ---
 
-### Sports Memoriable Items
+### Sports Memorabilia Items
 {% assign sorted = site.silent-auction | sort: 'title' %}
 {% for post in sorted %}
 {% if post.type == "sports" %}
