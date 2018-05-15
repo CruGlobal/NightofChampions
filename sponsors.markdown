@@ -33,7 +33,7 @@ position: 3
 </div>
 
 <div class="row text-center">
-    <h3>All-Star Sponsors</h3>
+    <h3>Champion Sponsors</h3>
     {% assign sorted = site.sponsors | sort: 'title' %}
     {% for post in sorted %}
     {% if post.level == "All-Star" %}
