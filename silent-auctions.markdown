@@ -29,3 +29,16 @@ description: Auction will be held prior to the start of the event.
 </div>
 {% endif %}
 {% endfor %}
+
+### Vacation Packages
+{% assign sorted = site.silent-auction | sort: 'title' %}
+{% for post in sorted %}
+{% if post.type == "vacation" %}
+<div class="col-xs-6 col-md-4">
+    <div style="padding-bottom: 30px;">
+        <img src="{{ post.image }}" alt="" style="max-height: 300px; overflow: none;" >
+        <h4>{{ post.title }}</h4>
+    </div>
+</div>
+{% endif %}
+{% endfor %}
