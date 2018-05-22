@@ -1,9 +1,22 @@
 ---
-title: 2018 Program
+title: 2019 Program
 date: 2017-11-13 10:15:00 Z
 position: 2
 ---
 
+<div class="row text-center">
+    <p>Next year's program will be annouced in the spring of 2019.   Below is the 2018 Program and it's guests. </p>
+    <p><img src="/uploads/sponsors/admin.jpg" alt="" /></p>
+    <p>For pictures from this year's event, please check out the <a href="https://www.admitphotography.com/project/aia-night-of-champions-2018/">event photos from Admit Photography.</a></p>
+</div>
+<div class="row text-center">
+    <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <div class="block-header style-2">
+            <h2 class="block-category">2018 Program</h2>
+            <div class="block-text"></div>
+        </div>
+    </div>
+</div>
 <div class="row text-center">
     <h2 class="script">13th Annual Night of Champions</h2>
     <p>Dinner</p>

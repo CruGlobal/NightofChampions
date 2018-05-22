@@ -4,7 +4,7 @@ date: 2017-11-13 14:53:00 Z
 position: 5
 ---
 
-<h3>Guest <span class="secondHalf">Information</span></h3>
+<!--<h3>Guest <span class="secondHalf">Information</span></h3>
 <div>
 <ul style="list-style-type:disc">
 <li>VIP/Sponsor Photo Op &amp; Tour begins at 5:00pm (VIP ticket required)</li>
@@ -19,7 +19,7 @@ position: 5
 <br> 
 <li>The table assignment is noted on the ticket. Please note that all ticket sales are final.</li>
 </ul>
-</div>
+</div>-->
 {% include plugins/full-width-image.html src="uploads/xenia-map.png" %}
 <div><b>
 <h3>Driving <span class="secondHalf">Directions</span></h3>

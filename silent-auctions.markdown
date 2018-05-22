@@ -4,7 +4,7 @@ date: 2017-11-13 14:52:00 Z
 position: 6
 description: Auction will be held prior to the start of the event.
 ---
-
+<!--
 ### Sports Memorabilia Items
 {% assign sorted = site.silent-auction | sort: 'title' %}
 {% for post in sorted %}
@@ -42,3 +42,5 @@ description: Auction will be held prior to the start of the event.
 </div>
 {% endif %}
 {% endfor %}
+
+-->
